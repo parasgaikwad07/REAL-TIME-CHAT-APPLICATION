@@ -22,4 +22,4 @@ The UI is designed to be responsive and clean, adapting well to different screen
 
 Overall, this project demonstrates practical knowledge of React component structure, state management, WebSocket-based real-time communication, and frontend UI/UX principles. The Real-Time Chat Application successfully showcases the ability to build interactive, real-time web interfaces using frontend technologies.
 
-OUTPUT:->
+OUTPUT:->https://github.com/parasgaikwad07/REAL-TIME-CHAT-APPLICATION/issues/1#issue-3881601548
